@@ -7,9 +7,11 @@ public class Check {
         
         // Khoi tao BDS
         ABC.khoiTaoBDS();
-        ABC.getQuanLyBDS().calc();
+        ABC.calc();
 
         //Ban BDS
+        boolean isSuccess = ABC.banNha(0);
+        
 
         // test change content
         
