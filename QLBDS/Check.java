@@ -11,7 +11,7 @@ public class Check {
 
         //Ban BDS
 
-
+        // test change content
         
         // Kiểm tra xem nhà đã được bán hay chưa
         // if (nha.isDaBan()) {
